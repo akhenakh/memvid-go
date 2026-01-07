@@ -1,7 +1,6 @@
 package memvid
 
 /*
-#cgo LDFLAGS: -L./rust/target/release -lmemvid_ffi -ldl -lpthread -lm
 #include <stdlib.h>
 #include "memvid_wrapper.h"
 */
